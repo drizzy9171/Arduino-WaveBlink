@@ -22,6 +22,9 @@ The program cycles through each LED in sequence:
 3. Moves to the next LED
 4. Repeats continuously
 
+## Code
+[WaveLedPtrn.ino]
+
 ## Usage
 
 1. Upload the code to your Arduino board
