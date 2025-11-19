@@ -10,8 +10,10 @@ a sequential blinking pattern across 4 LEDs, producing a "running light" or "Kni
 - 4 resistors (220Ω - 330Ω recommended)
 - Breadboard
 - Jumper wires
+
 ## Circuit diagram
-[]
+[Ard-Cr-Diagram.png]
+
 ## Simulation
 [https://www.tinkercad.com/things/gE5WcMScjr9-blinkusingcustomfunction?sharecode=mEpkIG7NEmsZDDjdoEToJrfC3zPlrf3Z0r0NAvvFIx8]
 ## How It Works
